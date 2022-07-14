@@ -5,8 +5,18 @@
 }
 
 .navbar-brand {
+    padding-left: 5vw;
     --bs-navbar-brand-padding-y: 0.9rem;
     --bs-navbar-brand-font-size: 1.0rem;
+    --bs-navbar-brand-margin-end: 2rem;
 }
+
+.dropdown-menu.show {
+    --bs-dropdown-border-radius: 0rem;
+    --bs-dropdown-min-width: 7rem;
+    --bs-dropdown-link-active-bg: #eb2b2b;
+}
+
+
 
 
