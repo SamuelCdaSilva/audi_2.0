@@ -1,0 +1,9 @@
+/* === Navbar === */
+
+.img-logo_audi {
+    width: 70px;
+}
+
+.navbar {
+    --bs-navbar-padding-y: 5rem;
+}
