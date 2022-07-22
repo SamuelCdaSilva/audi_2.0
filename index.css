@@ -1,21 +1,26 @@
-/* === Navbar === */
-
-.img-logo_audi {
-    width: 70px;
-}
 
 .navbar-brand {
-    padding-left: 5vw;
-    --bs-navbar-brand-padding-y: 0.9rem;
+    --bs-navbar-brand-padding-y: 1.3rem;
     --bs-navbar-brand-font-size: 1.0rem;
     --bs-navbar-brand-margin-end: 2rem;
 }
 
-.dropdown-menu.show {
-    --bs-dropdown-border-radius: 0rem;
-    --bs-dropdown-min-width: 7rem;
-    --bs-dropdown-link-active-bg: #eb2b2b;
+.navbar.navbar-expand-lg.bg-white {
+    font-size: 1.2rem;
 }
+
+.dropdown-menu.show {
+    --bs-dropdown-font-size: 1.1rem;
+    --bs-dropdown-border-radius: 0rem;
+    --bs-dropdown-min-width: 10rem;
+    --bs-dropdown-link-active-bg: #eb2b2b;
+    --bs-dropdown-item-padding-x: 5rem;
+    text-align: center;
+}
+
+
+
+
 
 
 
